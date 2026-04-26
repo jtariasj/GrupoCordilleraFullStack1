@@ -1,0 +1,36 @@
+Caso semestral
+"Grupo Cordillera – Plataforma de monitoreo inteligente para el desempeño organizacional"
+En el sector del retail y la comercialización de productos para el hogar y tecnología, las
+empresas deben gestionar grandes volúmenes de información provenientes de las áreas del
+negocio por lo que la capacidad de analizar los datos de manera oportuna es fundamental para
+la toma de decisiones por la alta gerencia.
+
+Grupo Cordillera es una empresa dedicada en el retail y comercialización con presencia en
+distintas ciudades con múltiples sucursales a lo largo del país.
+
+En los últimos años, la organización ha experimentado un crecimiento de sus operaciones,
+ampliando la gama de productos y expandiendo su presencia a nuevos mercados. Sin
+embargo, este crecimiento ha generado desafíos importantes para la gestión y análisis de la
+información en donde la organización ha subsanado utilizando diferentes softwares y
+herramientas digitales, entre ellos:
+
+1.- Sistemas de punto de venta
+2.- Plataformas de comercio electrónico
+3.- Sistemas de gestión de inventarios
+4.- Herramientas de gestión financiera
+5.- Sistema de atención al cliente
+
+Dada la amplia gama de software utilizado la información se encuentra dispersa en múltiples
+plataformas, lo que dificulta la visión y el desempeño de la organización. Por lo anterior los
+ejecutivos enfrentan dificultades para acceder a información confiable y consolidada, lo que
+complejiza la capacidad de tomar decisiones o arriesga el entregar información errónea.
+
+Para resolver estos problemas, Grupo Cordillera quiere desarrollar una solución basada en
+microservicios, con una capa frontend moderna y flexible, y un backend escalable y seguro,
+permitiendo consolidar la información y proporcionar herramientas de monitoreo en tiempo
+real del desempeño organizacional.
+
+El desarrollo de este sistema se llevará a cabo en tres etapas, alineadas con las evaluaciones
+parciales del curso. Finalmente, en el Examen Final Transversal, los/as estudiantes
+consolidarán su solución integrando todos los módulos desarrollados en un sistema
+funcional.
